@@ -44,6 +44,7 @@ Contents (simplified/elided):
 
 
 preamble [draft!]:
+(You shouldn't use this protocol if: ____)
 
 1. Remember, you’re probably going to die. Remember that the universe may experience heat death. Remember that, in some sense, death and heat death are in some sense just ideas and concepts.
 2. Remember that, while no one is obligated to give you or help you get these things, you deserve happiness, health, enjoyment, love, sex, family, and more.
